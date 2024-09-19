@@ -60,7 +60,7 @@ Results: The analysis demonstrated that wine ratings and certain characteristics
 
 [Code](https://github.com/esayun/Portfolio/blob/f75c9d2b007f66f2e9c8828314b407e6c3fdfa0b/Projects/Predicting_and_Understanding_Spanish_Wine_Ratings.ipynb)
 
-### IMDB Sentiment Analysis 
+#### IMDB Sentiment Analysis 
 
 Goal: To predict the sentiment of IMDb movie reviews.
 
