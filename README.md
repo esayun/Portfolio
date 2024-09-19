@@ -58,7 +58,7 @@ Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, TensorFlow
 
 Results: The analysis demonstrated that wine ratings and certain characteristics, such as vintage and acidity, significantly influence wine prices. The random forest model provided the best performance in predicting wine prices, while neural networks were effective in capturing complex patterns within the data.
 
-[Code](https://github.com/esayun/Portfolio/blob/b3a49258506159104dbd21cf44c8182c961a84ba/Projects/Understanding_And_Predicting_Spanish_Wine_Ratings.pdf)
+[Code](https://github.com/esayun/Portfolio/blob/f75c9d2b007f66f2e9c8828314b407e6c3fdfa0b/Projects/Predicting_and_Understanding_Spanish_Wine_Ratings.ipynb)
 
 ### IMDB Sentiment Analysis 
 
