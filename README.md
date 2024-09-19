@@ -26,7 +26,7 @@ _March 2022 – August 2023_
 
 _December 2020 – March 2022_
 
-- Developed data trackers to measure the profitability of projects and brand retainers, ensuring financial efficiency.
+- Developed data trackers and dashboards to monitor the profitability of projects and brand retainers, ensuring cost-effectiveness and financial efficiency.
 - Created detailed budgets for projects and retainers, aligning financial resources with strategic goals.
 - Conducted the 2022 financial forecast for various accounts, providing accurate and actionable insights.
 - Evaluated key performance indicators (KPIs) to assess and optimize project outcomes, leveraging data to identify areas for improvement.
