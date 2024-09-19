@@ -75,7 +75,7 @@ Results: The random forest model achieved a 4.24% test set error rate, effective
 [Code](https://github.com/esayun/Portfolio/blob/11ef8f7bc25f9256ab5d2113dbc820152837af7d/Projects/IMDB_Sentiment_Analysis.pdf)
 
 ## Certificates
-[Data analyst with python by DataCamp](Assets/Certifications/Data Analyst certificate.pdf)
+[Data analyst with python by DataCamp](https://github.com/esayun/Portfolio/blob/09852912316ad5ac81b7532b7438d6b41c7abbf9/Assets/Certifications/Data%20Analyst%20certificate.pdf)
 
 ## Contact
 Email: sayun.emilio@gmail.com
