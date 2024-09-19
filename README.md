@@ -61,6 +61,7 @@ Results: The analysis demonstrated that wine ratings and certain characteristics
 [Code](https://github.com/esayun/Portfolio/blob/b3a49258506159104dbd21cf44c8182c961a84ba/Projects/Understanding_And_Predicting_Spanish_Wine_Ratings.pdf)
 
 ## Certificates
+Data analyst with python by DataCamp (2024)
 
 ## Contact
 Email: sayun.emilio@gmail.com
