@@ -60,6 +60,20 @@ Results: The analysis demonstrated that wine ratings and certain characteristics
 
 [Code](https://github.com/esayun/Portfolio/blob/b3a49258506159104dbd21cf44c8182c961a84ba/Projects/Understanding_And_Predicting_Spanish_Wine_Ratings.pdf)
 
+### IMDB Sentiment Analysis 
+
+Goal: To predict the sentiment of IMDb movie reviews.
+
+Description: This project analyzed IMDb reviews to classify them as positive or negative. It involved data cleaning, tokenization, stopword removal, and lemmatization. Machine learning models like regression trees and random forests were used to predict sentiment, with text mining techniques like TF-IDF improving accuracy.
+
+Skills: text preprocessing, NLP, EDA, machine learning, feature engineering, model evaluation.
+
+Technology: R, Tidytext, Dplyr, RandomForest.
+
+Results: The random forest model achieved a 4.24% test set error rate, effectively classifying reviews.
+
+Code
+
 ## Certificates
 Data analyst with python by DataCamp (2024)
 
