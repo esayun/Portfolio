@@ -72,7 +72,7 @@ Technology: R, Tidytext, Dplyr, RandomForest.
 
 Results: The random forest model achieved a 4.24% test set error rate, effectively classifying reviews.
 
-Code
+[Code](https://github.com/esayun/Portfolio/blob/c8b75f97ad067ef7d297af8a13a6677b6661cf31/Projects/IMDB_Sentimen_Analysis.pdf)
 
 ## Certificates
 Data analyst with python by DataCamp (2024)
