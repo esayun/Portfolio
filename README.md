@@ -50,7 +50,7 @@ Instituto Tecnologico y de Estudios Superiores de Monterrey (ITESM), Mexico City
 
 Goal: To predict and understand the factors influencing Spanish wine ratings.
 
-Description: This project analyzed a dataset of Spanish wines, including details like winery, wine type, region, year, price, and ratings. It involved data loading, cleaning, preprocessing (handling missing values, encoding categories, and scaling features), and exploratory data analysis (EDA) to understand distributions, identify outliers, and examine correlations. Various machine learning models (linear regression, random forest, neural networks) were used to predict wine prices and ratings, along with statistical methods like Pearson correlation and OLS regression to identify key predictors.
+**Description**: This project analyzed a Spanish wine dataset, including winery, wine type, region, year, price, and ratings. It involved data loading, cleaning, preprocessing, and exploratory data analysis (EDA) to explore distributions, outliers, and correlations. Machine learning models (linear regression, random forest, neural networks) and statistical methods (Pearson correlation, OLS regression) were used to predict wine prices and ratings and identify key predictors.
 
 Skills: data cleaning, data preprocessing, EDA, machine learning, statistical analysis, data visualization, feature engineering, and model evaluation.
 
