@@ -9,7 +9,7 @@ This repository is designed to showcase my skills, share my projects, and track 
 
 My [resume](Assets/Files/Resume.pdf) in pdf.
 
-Technical Skills: Python, R, SQL, ML, Power BI.
+Technical Skills: Python, R, SQL, ML, Power BI, DAX.
 
 ## Work Experience
 **Client Solutions Planner at Tik Tok - Mexico City**
